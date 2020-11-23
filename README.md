@@ -7,3 +7,5 @@ jre 选择 %JAVA_HOME%\jre
 ```
 -server -Xcomp -XX:+UnlockDiagnosticVMOptions -XX:+PrintAssembly -XX:CompileCommand=compileonly,*Bar.sum
 ```
+
+![参数](./vm.png)
